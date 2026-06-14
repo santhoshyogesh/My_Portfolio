@@ -14,9 +14,3 @@ This portfolio highlights:
 - HTML
 - CSS
 - JavaScript
-
-## Live Demo
-[Portfolio Link]
-
-## GitHub Repository
-This repository contains the source code for my personal portfolio website.
